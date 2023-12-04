@@ -45,6 +45,8 @@ Explicar de manera logica el funcionamiento de la aplicacion segun la arquitectu
 
 ## Autores
 Patricia Fuentes
+
 Angel Guerrero
+
 Josefa Pinto
 
